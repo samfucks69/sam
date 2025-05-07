@@ -22,7 +22,7 @@ String Value = jsonEncode(Info);
 
 - 🧠 Bug bounty hunter | Ethical hacker  
 - 🔧 Building tools for Telegram, Instagram, and Discord  
-- 🥷 Hacked 100+ sites (legally)  
+- 🥷 Hacked 200+ sites (legally)  
 - 👨‍🎓 Certified: OSWAP, eJPT, WAPT  
 - 🎧 Discord / Telegram Bot Dev
 
